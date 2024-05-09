@@ -1,0 +1,10 @@
+{
+  "index_patterns": ["test*"],
+  "mappings": {
+    "properties": {
+      "test_text": {
+          "type": "text"
+      }
+    }
+  }
+}
